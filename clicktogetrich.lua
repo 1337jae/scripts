@@ -44,7 +44,7 @@ local RebirthToggle = Tabs.AutoClicker:AddToggle("Auto Rebirth", {
             isRebirthing = true
             autoRebirth() 
         else
-            isRebirthing = false -
+            isRebirthing = false 
         end
     end
 })
